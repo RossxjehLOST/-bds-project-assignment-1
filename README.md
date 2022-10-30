@@ -14,10 +14,7 @@ Even though our database is slightly bigger than we anticipated, we think that w
 - **MySQL-data-DML.sql** a DML script to fill up our database in MySQL
 - **PostgreSQL-database-creation-DDL.sql** a DDL script for generating our databse in PostgreSQL
 - **PostgreSQL-data-DML.sql** a DML script to fill up our database in PostgreSQL
-- **Proof_of_work.pdf** a .pdf file containing proof of our working databases (you can also find this at the end of Documentation)
-- **ERD.png** ER diagram
-- **Usecase.png** Use case diagram
-- **Systemcontext.png** System context diagram
+- **Images** folder contains ERD, Use case diagram, System context diagram and proof of our working database in form of images
 - **Randomizer** folder contains simple stolen Python script for generating random values into insert commands, such names and addresses
 
 ## Authors
