@@ -20,6 +20,7 @@ Even though our database is slightly bigger than we anticipated, we think that w
 - **Systemcontext.png** System context diagram
 
 ## Authors
-- [REDACTED]
-- [REDACTED]
 no doxxing here huehue
+- [REDACTED]
+- [REDACTED]
+
