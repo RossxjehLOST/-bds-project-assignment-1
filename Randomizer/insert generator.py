@@ -42,8 +42,7 @@ for i in range(1, 56):
     # print(f"INSERT INTO person_has_login (id_person, id_login, last_time_acount_loged_in) VALUES ('{i}','{i}','{yy}-{mm}-{dd} {h}:{m}:{s}');")
     # print(f"INSERT INTO payment (was_payment_succesfull, type_of_payment, date_of_payment, has_money_back_thing, fk_id_payment_person) VALUES ('{bit}','{payment}','{yy}-{mm}-{dd}','{bit}','{i}');")
     # print(f"INSERT INTO shipping (type_of_shipping, was_payment_succesfull, expected_date_of_shipping, company_that_will_ship_the_order, is_address_valid, fk_id_shipping_payment, fk_id_shipping_address) VALUES ('{shipping}','{bit}','{yy}-{mm}-{dd}','{company}','1','x','{i}');")
-    print(f"INSERT INTO cart_info (item, has_valid_shiping, was_payment_succesfull, fk_id_cart_info_shipping, fk_id_cart_info_payment, fk_id_cart_info_person) VALUES ('{item}','1','1');")
-
+    # print(f"INSERT INTO cart_info (item, has_valid_shiping, was_payment_succesfull, fk_id_cart_info_shipping, fk_id_cart_info_payment, fk_id_cart_info_person) VALUES ('{item}','1','1');")
 
 
     # you can pick what you want to generate by uncommenting one of the lines above
