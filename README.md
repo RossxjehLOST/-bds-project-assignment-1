@@ -18,6 +18,7 @@ Even though our database is slightly bigger than we anticipated, we think that w
 - **ERD.png** ER diagram
 - **Usecase.png** Use case diagram
 - **Systemcontext.png** System context diagram
+- **Randomizer** folder contains simple stolen Python script for generating random values into insert commands, such names and addresses
 
 ## Authors
 no doxxing here huehue
